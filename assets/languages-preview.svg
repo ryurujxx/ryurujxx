@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="180" viewBox="0 0 650 180">
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}</style>
+<rect width="100%" height="100%" rx="10" fill="#FFFFFF" stroke="#EEE6E8"/>
+<g fill="#4F484B" font-size="12">
+<text x="22" y="31">TypeScript</text><text x="22" y="61">Java</text><text x="22" y="91">Dart</text><text x="22" y="121">Python</text><text x="22" y="151">JavaScript</text>
+</g>
+<g fill="#FFF6F8">
+<rect x="112" y="21" width="500" height="10" rx="5"/><rect x="112" y="51" width="500" height="10" rx="5"/><rect x="112" y="81" width="500" height="10" rx="5"/><rect x="112" y="111" width="500" height="10" rx="5"/><rect x="112" y="141" width="500" height="10" rx="5"/>
+</g>
+<rect x="112" y="21" width="410" height="10" rx="5" fill="#DC819B"/>
+<rect x="112" y="51" width="330" height="10" rx="5" fill="#EDA8BA"/>
+<rect x="112" y="81" width="230" height="10" rx="5" fill="#F2BDCB"/>
+<rect x="112" y="111" width="140" height="10" rx="5" fill="#F7D6DE"/>
+<rect x="112" y="141" width="100" height="10" rx="5" fill="#FBE6EB"/>
+</svg>

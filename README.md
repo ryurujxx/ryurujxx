@@ -5,7 +5,24 @@
 <h1 align="center">Ryujin Lee</h1>
 <p align="center"><sub>Backend Developer · Cloud · Systems</sub></p>
 
+
 <br/>
+
+<div align="center">
+  <h3>About</h3>
+  <img src="./assets/soft-ornament.png" width="150" alt="">
+  <p>
+    Java / Spring Boot 기반 백엔드와 AWS 인프라를 중심으로 개발합니다.<br/>
+    서비스 구조, 실시간 시스템, 보안에도 관심이 있습니다.
+  </p>
+  <p>
+    <sub>
+      I build backend services with Java and Spring Boot, with a focus on AWS infrastructure.<br/>
+      I’m also interested in service architecture, real-time systems, and security.
+    </sub>
+  </p>
+</div>
+
 
 <h2><img src="./assets/section-accent.png" width="6" height="22" alt=""> Projects</h2>
 
@@ -92,6 +109,45 @@
 <p align="center">
   <img src="./assets/activity.svg" width="100%" alt="GitHub contribution activity">
 </p>
+
+<br/>
+
+
+<table>
+<tr>
+<td width="40%" valign="top">
+
+<h2><img src="./assets/section-accent.png" width="6" height="22" alt=""> This Week</h2>
+
+<p align="center">
+  <img src="./assets/weekly-coding.svg" width="100%" alt="Weekly coding time">
+</p>
+
+</td>
+<td width="60%" valign="top">
+
+<h2><img src="./assets/section-accent.png" width="6" height="22" alt=""> Languages</h2>
+
+<p align="center">
+  <img src="./assets/languages-preview.svg" width="100%" alt="Languages">
+</p>
+
+</td>
+</tr>
+</table>
+
+<!--
+FUTURE OPTION — Recently Played (Spotify)
+
+When Spotify is connected later, this block can replace the "This Week" card
+or be added as a second row. It is intentionally commented out while Melon is used.
+
+<h2><img src="./assets/section-accent.png" width="6" height="22" alt=""> Recently Played</h2>
+
+<p align="center">
+  <img src="./assets/recently-played.svg" width="100%" alt="Recently played on Spotify">
+</p>
+-->
 
 <br/>
 
