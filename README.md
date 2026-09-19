@@ -87,23 +87,17 @@
 
 <br/>
 
-<table>
-<tr>
-<td width="68%" valign="top">
-
 <h2><img src="./assets/section-accent.png" width="6" height="22" alt=""> Activity</h2>
 
-<!-- temporary local placeholder until the auto-updating pink contribution SVG is added -->
-<img src="./assets/activity-preview.png" width="100%" alt="GitHub activity graph">
+<p align="center">
+  <img src="./assets/activity.svg" width="100%" alt="GitHub contribution activity">
+</p>
 
-</td>
-<td width="32%" valign="top">
+<br/>
 
 <h2><img src="./assets/section-accent.png" width="6" height="22" alt=""> Contact</h2>
 
-[![GitHub](https://img.shields.io/badge/GitHub-ryurujxx-181717?style=flat-square&logo=github)](https://github.com/ryurujxx)  
-[![Email](https://img.shields.io/badge/Email-ryuruj43%40gmail.com-EDA8BA?style=flat-square&logo=gmail&logoColor=white)](mailto:ryuruj43@gmail.com)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/ryurujxx"><img src="https://img.shields.io/badge/GitHub-ryurujxx-181717?style=flat-square&logo=github" alt="GitHub"></a>
+  <a href="mailto:ryuruj43@gmail.com"><img src="https://img.shields.io/badge/Email-ryuruj43%40gmail.com-EDA8BA?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
