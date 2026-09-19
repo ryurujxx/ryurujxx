@@ -10,8 +10,7 @@
 
 <div align="center">
   <h3>About</h3>
-  <img src="./assets/soft-ornament.png" width="150" alt="">
-  <p>
+<p>
     Java / Spring Boot 기반 백엔드와 AWS 인프라를 중심으로 개발합니다.<br/>
     서비스 구조, 실시간 시스템, 보안에도 관심이 있습니다.
   </p>
@@ -113,6 +112,10 @@
 <br/>
 
 
+
+<!--
+TEMPORARILY HIDDEN — enable after WakaTime is connected and Languages uses real data.
+
 <table>
 <tr>
 <td width="40%" valign="top">
@@ -135,6 +138,8 @@
 </td>
 </tr>
 </table>
+-->
+
 
 <!--
 FUTURE OPTION — Recently Played (Spotify)
